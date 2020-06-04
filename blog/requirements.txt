@@ -1,0 +1,4 @@
+requests
+boto3
+flask-lambda-python36
+simplejson
